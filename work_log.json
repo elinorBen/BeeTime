@@ -1,0 +1,24 @@
+{
+    "2025-07-07": {
+        "work_location": "Home",
+        "required_time": "08:48",
+        "sessions": [
+            {
+                "start_time": "16:08",
+                "end_time": "16:08",
+                "source": "auto",
+                "type": "finish"
+            }
+        ],
+        "inactive_periods": [],
+        "summary": {
+            "missing_time": "08:48",
+            "total_tracked": "00:00",
+            "total_inactive": "00:00",
+            "manual_adjustments": "00:00",
+            "total_reported": "00:00",
+            "overtime": "00:00",
+            "met_target": false
+        }
+    }
+}
